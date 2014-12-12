@@ -1,0 +1,1 @@
+Meteor.Uploads = new Mongo.Collection("uploads")
