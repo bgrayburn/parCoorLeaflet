@@ -14,3 +14,11 @@
   border-radius:5px;
   background: rgba(255, 255, 255, 0.7);
 }
+
+#code_link {
+  position:fixed;
+  top: 1vh;
+  height: 2em;
+  right: 1vw;
+  background: rgba(255, 255, 255, 0.7);
+}
